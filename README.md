@@ -1,6 +1,7 @@
 # git_bash
 
 # Работа с git и bash
+Задание: Отправить базовые команды
 
 Отправка команд
 - [Ссылка на документ 1](https://drive.google.com/file/d/1dGTo5RXbOKe7lKOMZdxFM4QtsOZTOxtW/view?usp=share_link)
